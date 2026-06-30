@@ -14,18 +14,9 @@
 
 ## 👩‍💻 About Me
 
-```python
-class Sheyda:
-    def __init__(self):
-        self.education = ["B.Sc. Computer Science", "M.Sc. Student, Computer Engineering"]
-        self.focus = "Practical AI/ML systems that hold up outside the notebook"
-        self.currently_exploring = ["LLMs", "MLOps", "Explainable AI"]
+🎓 B.Sc. in Computer Science · M.Sc. Student in Computer Engineering
 
-    def goal(self):
-        return "Build intelligent systems that solve real problems, one well-tested model at a time."
-```
-
-I'm an M.Sc. student in Computer Engineering with a B.Sc. in Computer Science, focused on building and evaluating machine learning systems — not just training models, but understanding *when* and *why* an architecture is the right choice for the problem and data at hand.
+I focus on building and evaluating machine learning systems — not just training models, but understanding *when* and *why* an architecture is the right choice for the problem and data at hand.
 
 My recent work spans speech & audio classification, comparative architecture studies (CNN vs. attention-based models), and applied deep learning experiments — with an emphasis on honest evaluation: cross-validation, confusion matrices, and significance testing over cherry-picked metrics.
 
