@@ -4,8 +4,10 @@
 
 ### AI/ML enthusiast turning research curiosity into practical, working systems
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-uix@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:uix@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Sheyda%20Asadi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheyda-asadi-a171b2334)
+[![Kaggle](https://img.shields.io/badge/-sheydaasadi-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sheydaasadi)
+[![Telegram](https://img.shields.io/badge/-@sheyda__asadi-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sheyda_asadi)
 [![GitHub](https://img.shields.io/badge/-sheyda2021-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sheyda2021)
 
 </div>
