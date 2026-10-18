@@ -8,6 +8,10 @@
 
 <br/>
 
+![Open to work](https://img.shields.io/badge/Open%20to-opportunities-10B981?style=for-the-badge&logo=target&logoColor=white)
+
+<br/>
+
 [![Email](https://img.shields.io/badge/-uix@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uix@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Sheyda%20Asadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheyda-asadi-a171b2334)
 [![Kaggle](https://img.shields.io/badge/-sheydaasadi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sheydaasadi)
@@ -24,6 +28,30 @@
 I build and evaluate machine learning systems. Training a model is the easy part; the harder question is *when* and *why* a given architecture fits the problem and the data.
 
 Recent work includes speech and audio classification, comparative studies of CNN and attention-based models, and applied deep learning experiments. I report results with cross-validation, confusion matrices and significance tests rather than a single best number.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## ⚡ What I do
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" alt="deep learning" /><br/><br/>
+<b>Deep learning</b><br/>
+CNN, attention-based and sequence models for audio and vision
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=py,sklearn&perline=2" alt="evaluation" /><br/><br/>
+<b>Rigorous evaluation</b><br/>
+Cross-validation, confusion matrices, significance testing
+</td>
+<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=docker,git&perline=2" alt="engineering" /><br/><br/>
+<b>Engineering</b><br/>
+Moving experiments from notebook to reproducible pipelines
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
@@ -74,20 +102,12 @@ Recent work includes speech and audio classification, comparative studies of CNN
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sheyda2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheyda2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sheyda2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=issues,prs,contribs&title_color=A78BFA&icon_color=7C3AED" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheyda2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,css&title_color=A78BFA" alt="top languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=sheyda2021&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sheyda2021&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheyda2021&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="activity graph" width="100%" />
 
 </div>
 
@@ -109,6 +129,12 @@ Recent work includes speech and audio classification, comparative studies of CNN
 ## 🎯 What I'm working toward
 
 I want to build systems that are accurate and also understood, where each architectural decision is backed by a clear evaluation. In practice that means rigorous comparisons, reporting what didn't work alongside what did, and steadily improving both my ML intuition and my engineering habits.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
+
+## 📫 Let's talk
+
+I'm open to ML engineering and research roles. The fastest way to reach me is [email](mailto:uix@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sheyda-asadi-a171b2334).
 
 <div align="center">
 
