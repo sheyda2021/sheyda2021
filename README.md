@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sheyda%20Asadi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20M.Sc.%20Computer%20Engineering&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sheyda%20Asadi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20M.Sc.%20Computer%20Engineering&descAlignY=60&descSize=18" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Turning+research+curiosity+into+working+systems;Speech+%26+audio+classification;CNN+vs.+attention-based+models%3A+when+and+why;Honest+evaluation+over+cherry-picked+metrics" alt="Typing SVG" />
+<a href="https://github.com/sheyda2021">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Turning+research+curiosity+into+working+systems;Speech+%26+audio+classification;CNN+vs.+attention-based+models%3A+when+and+why;Honest+evaluation+over+cherry-picked+metrics" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,11 +13,9 @@
 [![Kaggle](https://img.shields.io/badge/-sheydaasadi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sheydaasadi)
 [![Telegram](https://img.shields.io/badge/-@sheyda__asadi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sheyda_asadi)
 
-<img src="https://komarev.com/ghpvc/?username=sheyda2021&label=Profile%20views&color=7C3AED&style=flat-square" alt="views" />
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 👩‍💻 About me
 
@@ -27,7 +25,7 @@ I build and evaluate machine learning systems. Training a model is the easy part
 
 Recent work includes speech and audio classification, comparative studies of CNN and attention-based models, and applied deep learning experiments. I report results with cross-validation, confusion matrices and significance tests rather than a single best number.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 🧠 Areas of interest
 
@@ -55,13 +53,13 @@ Recent work includes speech and audio classification, comparative studies of CNN
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 🛠️ Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,matlab,tensorflow,pytorch,sklearn,numpy,pandas,opencv&perline=9" alt="skills" />
+<img src="https://skillicons.dev/icons?i=py,cpp,matlab,tensorflow,pytorch,sklearn,numpy,pandas,opencv,git,github,docker,linux,vscode&perline=7" alt="skills" />
 
 <br/><br/>
 
@@ -70,7 +68,7 @@ Recent work includes speech and audio classification, comparative studies of CNN
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 📊 GitHub stats
 
@@ -79,13 +77,21 @@ Recent work includes speech and audio classification, comparative studies of CNN
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sheyda2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheyda2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=sheyda2021&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sheyda2021&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheyda2021&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="activity graph" width="100%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 📚 Currently learning
 
@@ -98,15 +104,15 @@ Recent work includes speech and audio classification, comparative studies of CNN
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
 
 ## 🎯 What I'm working toward
 
 I want to build systems that are accurate and also understood, where each architectural decision is backed by a clear evaluation. In practice that means rigorous comparisons, reporting what didn't work alongside what did, and steadily improving both my ML intuition and my engineering habits.
 
----
-
 <div align="center">
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheyda2021/sheyda2021/output/github-snake-dark.svg" />
